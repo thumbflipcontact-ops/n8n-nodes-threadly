@@ -76,7 +76,6 @@ export class ThreadlyTrigger implements INodeType {
 		},
 		inputs: [],
 		outputs: [NodeConnectionTypes.Main],
-		usableAsTool: true,
 		credentials: [
 			{
 				name: 'threadlyApi',
