@@ -5,6 +5,8 @@ reply-drafting tool for X/Twitter. Every reply Threadly drafts sits in an Approv
 a human reviews it; nothing is ever posted automatically. This node lets an n8n workflow react
 to what Threadly finds and participate in that review step.
 
+**New to Threadly?** [Start a free 7-day trial](https://www.usethreadly.co?utm_source=n8n&utm_medium=community_node&utm_campaign=n8n) — no card required.
+
 ## Installation
 
 Follow the n8n [community nodes installation guide](https://docs.n8n.io/integrations/community-nodes/installation/),
