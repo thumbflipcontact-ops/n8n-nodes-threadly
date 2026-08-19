@@ -58,6 +58,7 @@ function verifySignature(this: IWebhookFunctions): boolean {
 		}
 		return timingSafeEqual(computedBuffer, providedBuffer);
 	} catch {
+		// HMAC creation fails on a malformed secret — treat as an invalid signature.
 		return false;
 	}
 }

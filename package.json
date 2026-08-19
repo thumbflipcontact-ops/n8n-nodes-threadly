@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-threadly",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for Threadly — find X/Twitter conversations and review AI-drafted replies from within an n8n workflow.",
   "keywords": [
     "n8n-community-node-package"
