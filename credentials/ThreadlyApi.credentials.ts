@@ -29,7 +29,7 @@ export class ThreadlyApi implements ICredentialType {
 			displayName: 'Base URL',
 			name: 'baseUrl',
 			type: 'string',
-			default: 'https://growthos-production-d600.up.railway.app',
+			default: 'https://api.usethreadly.co',
 			required: true,
 			description: 'The base URL of your Threadly deployment. Leave as default unless self-hosting.',
 		},
